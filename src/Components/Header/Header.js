@@ -22,7 +22,6 @@ function Header() {
             <HeaderNavContainer>
                 <NavLink to='/'>Home</NavLink>
                 <NavLink to='/products'>Products</NavLink>
-                <NavLink to='/About'>About Us</NavLink>
             </HeaderNavContainer>
             <ButtonsDiv>
                 <NavLink to='/SignIn'>Sign In</NavLink>
